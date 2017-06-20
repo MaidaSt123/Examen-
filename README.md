@@ -1,5 +1,6 @@
-# Examen-
+# Examen
 Mi portafolio de diseño
+
 *Esta página muestra proyectos de diferentes ambitos de autoría propia*
 
 Dividido en 2 ámbito generales
