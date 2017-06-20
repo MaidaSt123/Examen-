@@ -37,7 +37,7 @@ $description = "Portafolio personal con proyectos de diseño enfocados al diseñ
 
     <!-- Custom Fonts -->
     <link href="vendor/font-awesome/css/font-awesome.min.css" rel="stylesheet" type="text/css">
-    <link href="https://fonts.googleapis.com/css?family=Montserrat|Oxygen" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css?family=Droid+Serif:400i,700i|Montserrat:400,600" rel="stylesheet">
 
     <!-- Theme CSS -->
     <link href="css/estilo.css" rel="stylesheet">
